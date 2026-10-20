@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# IDEs
+.idea/
+.vscode/
+
+# Project Specific
+data_img/*/
+!data_img/.gitkeep
+model/*.h5
+model/labels.txt
